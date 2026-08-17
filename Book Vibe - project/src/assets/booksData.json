@@ -1,0 +1,302 @@
+[
+  {
+    "id": 1,
+    "image": "https://covers.openlibrary.org/b/isbn/9780316769488-M.jpg",
+    "tags": ["Young Adult", "Identity"],
+    "title": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "category": "Fiction",
+    "rating": 5.0,
+    "pages": 277
+  },
+  {
+    "id": 2,
+    "image": "https://covers.openlibrary.org/b/isbn/9780061120084-M.jpg",
+    "tags": ["Classic", "Family"],
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "category": "Fiction",
+    "rating": 4.8,
+    "pages": 281
+  },
+  {
+    "id": 3,
+    "image": "https://covers.openlibrary.org/b/isbn/9780743273565-M.jpg",
+    "tags": ["Classic", "Love"],
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "category": "Fiction",
+    "rating": 4.6,
+    "pages": 180
+  },
+  {
+    "id": 4,
+    "image": "https://covers.openlibrary.org/b/isbn/9780451524935-M.jpg",
+    "tags": ["Classic", "Dystopian"],
+    "title": "1984",
+    "author": "George Orwell",
+    "category": "Dystopian",
+    "rating": 4.9,
+    "pages": 328
+  },
+  {
+    "id": 5,
+    "image": "https://covers.openlibrary.org/b/isbn/9780141182674-M.jpg",
+    "tags": ["Classic", "Adventure"],
+    "title": "The Old Man and the Sea",
+    "author": "Ernest Hemingway",
+    "category": "Fiction",
+    "rating": 4.7,
+    "pages": 127
+  },
+  {
+    "id": 6,
+    "image": "https://covers.openlibrary.org/b/isbn/9780590353427-M.jpg",
+    "tags": ["Young Adult", "Magic"],
+    "title": "Harry Potter and the Sorcerer's Stone",
+    "author": "J.K. Rowling",
+    "category": "Fantasy",
+    "rating": 4.9,
+    "pages": 309
+  },
+  {
+    "id": 7,
+    "image": "https://covers.openlibrary.org/b/isbn/9780743477116-M.jpg",
+    "tags": ["Classic", "Love"],
+    "title": "Romeo and Juliet",
+    "author": "William Shakespeare",
+    "category": "Drama",
+    "rating": 4.7,
+    "pages": 283
+  },
+  {
+    "id": 8,
+    "image": "https://covers.openlibrary.org/b/isbn/9780140449266-M.jpg",
+    "tags": ["Classic", "Adventure"],
+    "title": "The Odyssey",
+    "author": "Homer",
+    "category": "Epic",
+    "rating": 4.5,
+    "pages": 541
+  },
+  {
+    "id": 9,
+    "image": "https://covers.openlibrary.org/b/isbn/9780140449181-M.jpg",
+    "tags": ["Classic", "Adventure"],
+    "title": "The Iliad",
+    "author": "Homer",
+    "category": "Epic",
+    "rating": 4.4,
+    "pages": 704
+  },
+  {
+    "id": 10,
+    "image": "https://covers.openlibrary.org/b/isbn/9780140283334-M.jpg",
+    "tags": ["Classic", "Society"],
+    "title": "Animal Farm",
+    "author": "George Orwell",
+    "category": "Political Fiction",
+    "rating": 4.8,
+    "pages": 112
+  },
+  {
+    "id": 11,
+    "image": "https://covers.openlibrary.org/b/isbn/9780141439556-M.jpg",
+    "tags": ["Classic", "Identity"],
+    "title": "Jane Eyre",
+    "author": "Charlotte Brontë",
+    "category": "Fiction",
+    "rating": 4.7,
+    "pages": 532
+  },
+  {
+    "id": 12,
+    "image": "https://covers.openlibrary.org/b/isbn/9780064407663-M.jpg",
+    "tags": ["Young Adult", "Choice"],
+    "title": "The Giver",
+    "author": "Lois Lowry",
+    "category": "Dystopian",
+    "rating": 4.6,
+    "pages": 240
+  },
+  {
+    "id": 13,
+    "image": "https://covers.openlibrary.org/b/isbn/9780142437179-M.jpg",
+    "tags": ["Classic", "Family"],
+    "title": "Little Women",
+    "author": "Louisa May Alcott",
+    "category": "Fiction",
+    "rating": 4.8,
+    "pages": 449
+  },
+  {
+    "id": 14,
+    "image": "https://covers.openlibrary.org/b/isbn/9780060935467-M.jpg",
+    "tags": ["Classic", "Adventure"],
+    "title": "The Adventures of Huckleberry Finn",
+    "author": "Mark Twain",
+    "category": "Adventure",
+    "rating": 4.3,
+    "pages": 366
+  },
+  {
+    "id": 15,
+    "image": "https://covers.openlibrary.org/b/isbn/9780316769488-M.jpg",
+    "tags": ["Classic", "Hope"],
+    "title": "The Grapes of Wrath",
+    "author": "John Steinbeck",
+    "category": "Fiction",
+    "rating": 4.6,
+    "pages": 464
+  },
+  {
+    "id": 16,
+    "image": "https://covers.openlibrary.org/b/isbn/9780141185064-M.jpg",
+    "tags": ["Classic", "Society"],
+    "title": "The Picture of Dorian Gray",
+    "author": "Oscar Wilde",
+    "category": "Gothic Fiction",
+    "rating": 4.7,
+    "pages": 254
+  },
+  {
+    "id": 17,
+    "image": "https://covers.openlibrary.org/b/isbn/9780142437179-M.jpg",
+    "tags": ["Adventure", "Nature"],
+    "title": "The Call of the Wild",
+    "author": "Jack London",
+    "category": "Adventure",
+    "rating": 4.5,
+    "pages": 172
+  },
+  {
+    "id": 18,
+    "image": "https://covers.openlibrary.org/b/isbn/9780141321004-M.jpg",
+    "tags": ["Young Adult", "Adventure"],
+    "title": "Alice's Adventures in Wonderland",
+    "author": "Lewis Carroll",
+    "category": "Fantasy",
+    "rating": 4.8,
+    "pages": 200
+  },
+  {
+    "id": 19,
+    "image": "https://covers.openlibrary.org/b/isbn/9780439023481-M.jpg",
+    "tags": ["Young Adult", "Survival"],
+    "title": "The Hunger Games",
+    "author": "Suzanne Collins",
+    "category": "Dystopian",
+    "rating": 4.8,
+    "pages": 374
+  },
+  {
+    "id": 20,
+    "image": "https://covers.openlibrary.org/b/isbn/9780547928227-M.jpg",
+    "tags": ["Young Adult", "Fantasy"],
+    "title": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "category": "Fantasy",
+    "rating": 4.9,
+    "pages": 310
+  },
+  {
+    "id": 21,
+    "image": "https://covers.openlibrary.org/b/isbn/9780439554930-M.jpg",
+    "tags": ["Young Adult", "Magic"],
+    "title": "Harry Potter and the Chamber of Secrets",
+    "author": "J.K. Rowling",
+    "category": "Fantasy",
+    "rating": 4.9,
+    "pages": 341
+  },
+  {
+    "id": 22,
+    "image": "https://covers.openlibrary.org/b/isbn/9780375831003-M.jpg",
+    "tags": ["Young Adult", "Friendship"],
+    "title": "The Book Thief",
+    "author": "Markus Zusak",
+    "category": "Historical Fiction",
+    "rating": 4.8,
+    "pages": 581
+  },
+  {
+    "id": 23,
+    "image": "https://covers.openlibrary.org/b/isbn/9780064471107-M.jpg",
+    "tags": ["Young Adult", "Friendship"],
+    "title": "The Outsiders",
+    "author": "S.E. Hinton",
+    "category": "Young Adult",
+    "rating": 4.7,
+    "pages": 192
+  },
+  {
+    "id": 24,
+    "image": "https://covers.openlibrary.org/b/isbn/9780141439556-M.jpg",
+    "tags": ["Young Adult", "Family"],
+    "title": "Wonder",
+    "author": "R.J. Palacio",
+    "category": "Fiction",
+    "rating": 4.9,
+    "pages": 315
+  },
+  {
+    "id": 25,
+    "image": "https://covers.openlibrary.org/b/isbn/9780679783268-M.jpg",
+    "tags": ["Young Adult", "Identity"],
+    "title": "The Perks of Being a Wallflower",
+    "author": "Stephen Chbosky",
+    "category": "Young Adult",
+    "rating": 4.5,
+    "pages": 213
+  },
+  {
+    "id": 26,
+    "image": "https://covers.openlibrary.org/b/isbn/9780061139376-M.jpg",
+    "tags": ["Young Adult", "Fantasy"],
+    "title": "Coraline",
+    "author": "Neil Gaiman",
+    "category": "Fantasy",
+    "rating": 4.7,
+    "pages": 162
+  },
+  {
+    "id": 27,
+    "image": "https://covers.openlibrary.org/b/isbn/9780140283334-M.jpg",
+    "tags": ["Young Adult", "Science"],
+    "title": "A Wrinkle in Time",
+    "author": "Madeleine L'Engle",
+    "category": "Science Fiction",
+    "rating": 4.4,
+    "pages": 211
+  },
+  {
+    "id": 28,
+    "image": "https://covers.openlibrary.org/b/isbn/9780064404990-M.jpg",
+    "tags": ["Young Adult", "Fantasy"],
+    "title": "The Lion, the Witch and the Wardrobe",
+    "author": "C.S. Lewis",
+    "category": "Fantasy",
+    "rating": 4.9,
+    "pages": 206
+  },
+  {
+    "id": 29,
+    "image": "https://covers.openlibrary.org/b/isbn/9780141439556-M.jpg",
+    "tags": ["Young Adult", "Love"],
+    "title": "The Fault in Our Stars",
+    "author": "John Green",
+    "category": "Romance",
+    "rating": 4.6,
+    "pages": 313
+  },
+  {
+    "id": 30,
+    "image": "https://covers.openlibrary.org/b/isbn/9780060850524-M.jpg",
+    "tags": ["Young Adult", "Adventure"],
+    "title": "The Secret Garden",
+    "author": "Frances Hodgson Burnett",
+    "category": "Children's Fiction",
+    "rating": 4.7,
+    "pages": 331
+  }
+]
